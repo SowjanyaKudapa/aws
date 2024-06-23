@@ -4,6 +4,7 @@ go to ec2 instance service
 1.click on launch instance
 2.give a name to our instance
 3.choose an os
-4.choose in which network u want tocreate ur ec2 instance
-5.type number how many instances u want to create
-6.then click on launch instance
+4.create a key pair
+5.choose in which network u want tocreate ur ec2 instance
+6.type number how many instances u want to create
+7.then click on launch instance
