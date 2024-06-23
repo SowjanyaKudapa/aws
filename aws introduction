@@ -1,1 +1,12 @@
+1.what is cloud computing?
+https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-cloud-computing
+#introduction on AWS:
+Amazon Web Services (AWS) is a leading top platform in providing the web services of various domains.
+AWS follows the trends of digital IT and comes up needy services with optimized performances covering a wide range of services from Compute to Storage.
+It covers a wider range of customers of different domains to expand their business operations.
+AWS Fundamentals
+In the Journey of AWS, understanding the key concepts such as Regions, Availability Zones, Global Network Infrastructure, etc is crucial. The fundamentals of AWS keep on maintaining the applications reliable and scalable with services globally with coming to a strategic deployment of resources for optimal performance and resilience. The following are the some of the main fundamentals of AWS:
 
+Regions: AWS provide the services with respective division of regions. The regions are divided based on geographical areas/locations and will establish data centers. Based on need and traffic of users, the scale of data centers is depended to facilitate users with low-latencies of servcies.
+Availability Zones (AZ): To prevent the Data centers for the Natural Calamities or any other disasters. The Datacenters are established as sub sections with isolated locations to enhance fault tolerance and disaster recovery management.
+Global Network Infrastructure: AWS ensures the reliability and scalability of services through setting up its own AWS Network Infrastructure globally. It helps in better management of data transmissions for optimized performance and security reliance.
