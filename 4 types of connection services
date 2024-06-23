@@ -1,0 +1,27 @@
+1.with mobaxterm
+for this we need to create the instance with .pem
+.pem is for mobaxterm and diff consoles also
+  steps:
+  ======
+  1.go to mobaxterm
+  2.if the os islinux go for ssh(22) or if the os is windows go for RDP(3389)
+  3.then give public ipaddress and username and then give key pair 
+  4.click on ok
+2.with putty
+for this we need to create the instance with .ppk
+.ppk is only for putty.
+  steps:
+  ======
+  1.go to putty
+  2.give ip adress and then click on auth then click on ssh then click on credentials 
+  3.the browse the key pair value then click on ok
+  4.then it asks for username give it, then it automatically connects.
+3.with direct console
+at aws manahemnet console click on ec2 instance which u want, at top there is a button called connect the click it and after that go to ec2-instance then at down there is 
+a option called connect click it 
+it automaticaly connect.
+
+4.using cmd
+go to file manager, go tothe path at which your private key is there,
+then open cmd in that go where ur key file is there
+then give a command "ssh -i <private key> <username>@<public ip address>
