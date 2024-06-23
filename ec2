@@ -1,0 +1,21 @@
+EC2- Elastic compute cloud
+Amazon Elastic Compute Cloud (EC2) is a web service provided by Amazon Web Services (AWS) that offers resizable compute capacity in the cloud. 
+It is designed to make web-scale cloud computing easier for developers by providing virtual servers, known as instances, that can be scaled up or down as needed.
+Here’s a more detailed explanation:
+
+Key Features of EC2
+
+Scalability:
+EC2 instances can be scaled up or down depending on the needs of your application. This means you can increase the number of instances during peak times and decrease them during off-peak times, optimizing costs and performance.
+
+Variety of Instance Types:
+EC2 offers a wide range of instance types optimized for different use cases, such as compute-optimized, memory-optimized, storage-optimized, and GPU instances. This allows you to choose the best instance type for your specific workload.
+
+Pay-as-You-Go Pricing:
+With EC2, you only pay for the compute capacity that you use. There are no upfront commitments, and you can scale your capacity up or down according to your needs, making it a cost-effective solution.
+
+Flexible Configuration:
+EC2 instances can be configured with different combinations of CPU, memory, storage, and networking capacity. You can select the configuration that best matches your application’s requirements.
+
+Elastic Block Store (EBS):
+Amazon EBS provides block-level storage volumes for use with EC2 instances. EBS volumes are highly available and reliable storage volumes that can be attached to any running instance and offer persistent storage.
