@@ -1,0 +1,19 @@
+amazon linux :
+===============
+launch amazon server
+yum update
+yum install httpd
+add http port and ssh in security groups in ec2-instance.
+systemctl start httpd.
+go to browser - paste public ip.
+here webpage is in - /usr/share/html/noindex/index.html
+
+ubuntu linux:
+=============
+launch ununtu server
+apt-get update
+apt-get install apache2
+add http port and ssh in security groups in ec2-instance.
+systemctl start apache2
+go to browser - paste public ip.
+here webpage is in - /var/www/html/index.html
