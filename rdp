@@ -1,0 +1,9 @@
+rdp - remote desktop protocil
+2 ways:
+1 from third party softwate like mobaxterm or putty
+and other is go to run command and then type "mstsc"
+it opens a rdp then give ip address, at down there is a option called more options
+in that select local resources then go to more in properties then go to click on drives 
+drives is for accessing the physical drives in virtual machine
+then click on more choices give username as "administartor" and give passwd then connect
+it conects
