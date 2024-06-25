@@ -1,0 +1,14 @@
+create any server - launch instance
+after launching go to security groups and add http for webserver and add ssh protocol for linux.
+then launch the server 
+update that - yum update
+yum install apache2
+syatemctl start apache2
+chmod 777 /vvv/www/html
+then open in sftp(port num:22) launch that server.
+delete that file inside the html 
+then go to anywebsite template and drag that web templates into that /var/www/html
+then go to ssh 
+write the command "systemctl restart apavhe2"
+
+take public ip of that server and put in on the browser it gives the appliaction deployment.
