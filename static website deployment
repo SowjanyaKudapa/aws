@@ -12,3 +12,7 @@ then go to ssh
 write the command "systemctl restart apavhe2"
 
 take public ip of that server and put in on the browser it gives the appliaction deployment.
+
+for amazon we can't connect 2 times the same in instance
+but in ubuntu we have having that facility to connect in both ssh and sftp
+in amazon apache2 is not supports
