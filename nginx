@@ -1,0 +1,9 @@
+nginx:
+======
+In linux it is a webserver
+apt-get install nginx
+it have 2 paths /usr/share/html/index.html
+/var/www/html/index-debian.html
+
+only one is works 
+based on our system it redirects
