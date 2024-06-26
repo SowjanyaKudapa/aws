@@ -1,0 +1,17 @@
+launch windows ec2 instance
+
+steps :
+=======
+  in windows virtualization
+  go to server manager
+  click add roles and manager
+  click next
+  at servers - add features for winserver(iis) (Internet Information Services)
+  next next install
+  then take ip adress and browse it in browser.
+
+go to this pc
+go to local drive
+go to inetpub - go to wwwroot
+add index.html or add website templates like coffe bar or medplus
+  then re browse it.
